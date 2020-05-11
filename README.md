@@ -4,7 +4,7 @@ React. js is an open-source JavaScript library that is used for building user in
 ## Starter-kit
 1. [Boilerplate 1](Starter-kit-1)
 
-<br />
+
 ### Start Project
 ```$ npm install -  React install dependencies from package.json``` <br />
 ```$ npm start   -  react-scripts start```<br />
