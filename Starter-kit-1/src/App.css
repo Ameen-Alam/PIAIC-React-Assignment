@@ -1,0 +1,31 @@
+img{ max-width: 100%; }
+.logo {
+    width: 80px;
+}
+
+.footer {
+    background: #4b9c32;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.height1 {
+    min-height: 86vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.style1 {
+    background-color: grey;
+    padding: 5px;
+    list-style: none;
+    margin: 5px 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+.ameenalam{ width: 120px; }
