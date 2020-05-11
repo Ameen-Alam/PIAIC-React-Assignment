@@ -1,6 +1,14 @@
 # PIAIC-React-Assignment
 React. js is an open-source JavaScript library that is used for building user interfaces specifically for single-page applications. It's used for handling the view layer for web and mobile apps. React also allows us to create reusable UI components.
 
+
+### Assignments
+
+1. TODO APP
+
+![To-Do-List](To-Do-List.gif)
+
+
 ## Starter-kit
 1. [Boilerplate 1](Starter-kit-1)
 
