@@ -12,17 +12,21 @@ React. js is an open-source JavaScript library that is used for building user in
 Develop Ecommerce-App using React Hooks<br />
 [Project Description](Ecommerce-App/README.md)
 
+--------------------
 
 ## Starter-kit
 1. [Boilerplate 1](Starter-kit-1)
 
+--------------------
 
 ### Start Project
-```$ npm install -  React install dependencies from package.json``` <br />
-```$ npm start   -  react-scripts start```<br />
-```$ npm build   -  react-scripts build```<br />
-```$ npm test    -  react-scripts test```<br />
-```$ npm eject   -  react-scripts eject```<br />
+```$ npm install```  -  React install dependencies from package.json<br />
+```$ npm start```    -  react-scripts start<br />
+```$ npm build```    -  react-scripts build<br />
+```$ npm test```     -  react-scripts test<br />
+```$ npm eject```    -  react-scripts eject<br />
+
+--------------------
 
 ### Create a New React App
 Install NodeJS LTS Version<br />
@@ -36,6 +40,8 @@ Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine<br />
 ##### [Complete React Tutorial for Beginners (2020)](https://daveceddia.com/react-tutorial/?fbclid=IwAR0NzHXjI38xaf5mhC5ds1_EOPl5CVoquEQ7mXU0fSmS6BxsF3eix8i1OFc)
 
 ##### [CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster.](https://codesandbox.io/s/new)
+
+--------------------
 
 ### React Documentation
 1. [Getting Started](https://reactjs.org/docs)
