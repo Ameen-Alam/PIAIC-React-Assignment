@@ -4,9 +4,13 @@ React. js is an open-source JavaScript library that is used for building user in
 
 ### Assignments
 
-1. TODO APP
+#### 1. TODO APP
 
-![To-Do-List](To-Do-List.gif)
+![To-Do-List](To-Do-List.gif)<br />
+
+#### 2. Ecommerce App 
+Develop Ecommerce-App using React Hooks<br />
+[Project Description](Ecommerce-App/README.md)
 
 
 ## Starter-kit
