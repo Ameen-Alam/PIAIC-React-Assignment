@@ -22,8 +22,7 @@ When user click add to cart button show the form<br />
         2.  Address
         3.  Contact
         4.  Email
-        5.  Quantity
-
+        5.  Quantity <br />
 The user will fill out the form<br />
 post data on the purchase API
 
