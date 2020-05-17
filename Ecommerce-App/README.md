@@ -22,9 +22,10 @@ When user click add to cart button show the form<br />
         2.  Address
         3.  Contact
         4.  Email
-        5.  Quantity <br />
-The user will fill out the form<br />
-post data on the purchase API
+        5.  Quantity
+
+    The user will fill out the form<br />
+    post data on the purchase API
 
 4. Develop Dashboard Purchasing Page<br />
 Present/Print purchase API here.
