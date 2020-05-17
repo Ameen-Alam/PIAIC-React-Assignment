@@ -31,3 +31,11 @@ When user click add to cart button show the form<br />
 Present/Print purchase API here.
 
 5. Develop Each Product Page (using dynamic routing)
+
+---------------------------
+
+### JSON-Server
+JSON Server is a Node Module that you can use to create demo rest json webservice in less than a minute. All you need is a JSON file for sample data. <br/>
+
+Download Project and run as per instruction on README file
+[JSON-Server](https://github.com/Ameen-Alam/JSON-Server)
