@@ -15,9 +15,14 @@ Develop Ecommerce-App using React Hooks<br />
 ---------------------------------
 
 ## Starter-kit
-1. [React-Hooks-with-Boostrap-Kit](Starter-kit-1)
-2. [JSON-Server](https://github.com/Ameen-Alam/JSON-Server)
-3. [React-Router-DOM](react-router-dom)
+
+1. [React-Template](react-template)
+2. [React-Hooks-with-Boostrap-Kit](React-Hooks-with-Boostrap-Kit)
+3. [JSON-Server](https://github.com/Ameen-Alam/JSON-Server)
+4. [React-Router-DOM](react-router-dom)
+5. [React-Redux-Template](react-redux-template)
+6. [React-Redux-TypeScript-Template](react-redux-typescript-template)
+
 
 ---------------------------------
 
