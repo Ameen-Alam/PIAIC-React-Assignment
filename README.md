@@ -22,6 +22,8 @@ Develop Ecommerce-App using React Hooks<br />
 4. [React-Router-DOM](react-router-dom)
 5. [React-Redux-Template](react-redux-template)
 6. [React-Redux-TypeScript-Template](react-redux-typescript-template)
+7. [React-Redux-App](react-redux-app)
+
 
 
 ---------------------------------
