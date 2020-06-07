@@ -29,9 +29,9 @@ $ npm eject - react-scripts eject
 
 
 ##### React-Router Quick-Start
-[https://reacttraining.com/react-router/web/guides/quick-start](React Router Web Guides Quick-Start)
+[React Router Web Guides Quick-Start](https://reacttraining.com/react-router/web/guides/quick-start)
 
 
 
 ##### React-Router Web-Api
-[https://reacttraining.com/react-router/web/api](React Router Web Api)
+[React Router Web Api](https://reacttraining.com/react-router/web/api)
