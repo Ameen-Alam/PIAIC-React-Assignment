@@ -16,3 +16,16 @@ TypeScript provides highly productive development tools for JavaScript IDEs and 
 
 ``` $ npm install ```    or      ``` $ yarn ``` <br />
 ``` $ npm start ```      or       ``` $ yarn start ```
+
+
+
+
+#### Redux Documentation
+
+https://redux.js.org/introduction/getting-started
+
+https://redux.js.org/introduction/installation
+
+https://react-redux.js.org/
+
+https://redux-toolkit.js.org/
