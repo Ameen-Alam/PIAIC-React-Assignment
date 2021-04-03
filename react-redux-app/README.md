@@ -6,10 +6,11 @@ Redux is a predictable state container for JavaScript apps. It helps you write a
 #### cra-template
 
 ``` $ npx create-react-app my-app ``` <br />
+``` $ cd my app ``` <br />
 ``` $ npm install --save redux ``` <br />
 ``` $ npm install --save react-redux ``` <br />
 ``` $ npm install --save redux-thunk ``` <br />
-``` $ cd my app ``` <br />
+
 ``` $ npm start ```
 
 
