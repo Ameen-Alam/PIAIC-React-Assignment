@@ -129,5 +129,4 @@ Axios is a Promise-based HTTP client for JavaScript which can be used in your fr
 
 ---------------------------------
 
-##### Form Link
-https://forms.gle/9KNCjcbtLR3f5ymX7
+
