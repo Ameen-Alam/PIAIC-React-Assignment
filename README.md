@@ -103,6 +103,8 @@ React-Bootstrap replaces the Bootstrap JavaScript. Each component has been built
 
 10. [React Spinner](https://www.npmjs.com/package/react-spinners)
 
+11. [React Reveal](https://www.react-reveal.com/)
+React Reveal is high performance animation library for React. It's MIT licensed, has a small footprint and written specifically for React in ES6. It can be used to create various cool reveal on scroll effects. Scroll down to see it in action.
 
 11. [Semantic UI](https://react.semantic-ui.com/)
 Semantic UI is a UI component framework for theming websites. Semantic UI enables developers to build websites with fast and concise HTML, along with a complete mobile responsive experience. Semantic UI treats words and classes as exchangeable concepts.
