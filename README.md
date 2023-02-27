@@ -130,3 +130,8 @@ Axios is a Promise-based HTTP client for JavaScript which can be used in your fr
 ---------------------------------
 
 
+
+For all the assignments that you complete in the class or in the video lectures, you will need to upload them to a single GitHub repository. After that, you will need to attach the GitHub link in a Google Form. By doing this, it will make it easier for us to check and grade your assignments.
+
+
+https://forms.gle/8mQA2WFBzSYokuQ66
